@@ -6,7 +6,8 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
 ps = PorterStemmer()
-
+nltk.download('punkt_tab')
+nltk.download('stopwords')
 Tfidf = pickle.load(open('vectorizer.pkl','rb'))
 model = pickle.load(open('model.pkl','rb'))
 
