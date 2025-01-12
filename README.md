@@ -63,5 +63,5 @@ Local access: http://localhost:8501<br>
 Network access: http://192.168.27.84:8501<br>
 🌐 Deployed Application<br>
 Try the deployed web app here:<br>
-👉 Email/SMS Spam Classifier
+👉 https://emailspamclassifier-mt7yp298yiqbkmapasofco.streamlit.app/ 
  
