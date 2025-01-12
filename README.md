@@ -1,4 +1,4 @@
-📧 Email/SMS Spam Classifier
+📧 Email/SMS Spam Classifier <br>
 📜 Project Overview
 This project is an Email/SMS Spam Classifier designed to detect whether a message is spam or not. Built using a dataset from Kaggle, the system processes text data, trains a machine learning model, and provides a fully functional web application for real-time classification. The classifier analyzes messages using the Multinomial Naive Bayes algorithm, ensuring accurate and efficient predictions. Additionally, a Streamlit-based web interface makes it easy for users to interact with the system.
 
