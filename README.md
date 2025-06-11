@@ -65,4 +65,8 @@ Network access: http://192.168.27.84:8501<br>
 🌐 Deployed Application<br>
 Try the deployed web app here:<br>
 👉 https://emailspamclassifier-mt7yp298yiqbkmapasofco.streamlit.app/ 
+
+![Screenshot 2025-06-11 153500](https://github.com/user-attachments/assets/b3529c40-81af-45a2-8bb1-34ccd22e8b8f)
+![Screenshot 2025-06-11 153707](https://github.com/user-attachments/assets/01a83222-ed4e-4903-bbfd-7e5f96715ecb)
+
  
